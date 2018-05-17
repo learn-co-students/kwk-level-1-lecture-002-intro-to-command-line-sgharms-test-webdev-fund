@@ -4,7 +4,7 @@
 
 ***Students will be able to navigate their system's file structure using the command line in terminal.***
 
-## SWABTS
+## SWBAT
 
 + CLI ‐ Understand and explain what terminal is and why we use it
 + CLI ‐ Navigate through directories using relative and absolute paths
