@@ -43,7 +43,12 @@ Go ahead - try it! Click the Sandbox icon.
 
 ### `pwd`
 
-We're going to learn about the command line by planning for a trip. In IDE Sandbox, your terminal is located at the bottom of the screen. In your terminal, type `pwd`. (stop and have all students do this) `pwd` stands for print working directory. It will tell you where you are currently "standing" in terms of directories. A directory is just a fancy shmancy word for a folder.
+We're going to learn about the command line by planning for a trip. In IDE Sandbox, your terminal is located at the bottom of the screen. In your terminal, type `pwd`.
+
+#### CFU #1
+Thumbs up if you typed 'pwd' to your terminal 
+
+`pwd` stands for print working directory. It will tell you where you are currently "standing" in terms of directories. A directory is just a fancy shmancy word for a folder.
 
 A directory can contain one of two things - files or other directories. The directories on your computer are nested inside of each other, like a Russian doll or a tree structure. (draw the tree structure out as you build it)
 
