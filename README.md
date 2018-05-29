@@ -31,7 +31,7 @@ Learn gives all students a Sandbox Developer Environment so that they can play w
 
 ![Sandbox Sample](https://cl.ly/r3jq/Image%202018-04-21%20at%205.52.31%20PM.png)
 
-Go ahead - try it! Click the Sandbox icon.
+Go ahead - try it! Click the Sandbox icon. (Don't literally click the button image above, but rather find it under the Account menu on the top right in Learn.co)
 
 ### Parts of the Sandbox/IDE
 
